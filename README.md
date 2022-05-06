@@ -29,7 +29,7 @@
   4. Base Call: 'http://localhost:PORT/api/OBJECTS'
   5. PORT Example: 3001
   6. OBJECTS Options:
-    1. categories
+    * categories
     * products
     * tags
   7. POST: 
