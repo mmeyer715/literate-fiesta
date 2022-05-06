@@ -13,7 +13,6 @@
   * [Usage](#usage)
   * [License](#license)
   * [Contributing](#contributing)
-  * [Tests](#tests)
   * [Questions](#questions)
   
   ## Installation
@@ -28,26 +27,11 @@
   3. Open Insomnia or Postman
   4. Base Call: 'http://localhost:PORT/api/OBJECTS'
   5. PORT Example: 3001
-  6. OBJECTS Options:
-    * categories
-    * products
-    * tags
-  7. POST: 
-    * Category
-    * Product
-    * Tag
-  8. GET:
-    * Category
-    * Product
-    * Tag
-  9. PUT:
-    * Category
-    * Product
-    * Tag
-  10. DELETE:
-    * Category
-    * Product
-    * Tag
+  6. OBJECTS Options: {categories, product, stags}
+  8. POST examples:
+  9. GET examples:
+  10. PUT examples:
+  11. DELETE examples:
   
 
   ## License
