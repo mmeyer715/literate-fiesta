@@ -26,7 +26,7 @@
   1. npm run start
   2. Verify log shows: Listening to port
   3. Open Insomnia or Postman
-  4. Base Call: http://localhost:PORT/api/OBJECTS
+  4. Base Call: 'http://localhost:PORT/api/OBJECTS'
     - PORT Example: 3001
     - OBJECTS Options:
       * categories
