@@ -27,16 +27,16 @@
   2. Verify log shows: Listening to port
   3. Open Insomnia or Postman
   4. Base Call: http://localhost:PORT/api/OBJECTS
-    * PORT Example: 3001
-    * OBJECTS Options:
+    - PORT Example: 3001
+    - OBJECTS Options:
       * categories
       * products
       * tags
-    * POST: 
+    - POST: 
       * Category
       * Product
       * Tag
-    * GET:
+    - GET:
       * Category
       * Product
       * Tag
@@ -44,7 +44,7 @@
       * Category
       * Product
       * Tag
-    * DELETE:
+    - DELETE:
       * Category
       * Product
       * Tag
