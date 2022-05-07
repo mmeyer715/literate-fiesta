@@ -21,6 +21,9 @@
   3. npm run seed
   
 
+https://user-images.githubusercontent.com/95265770/167235777-af7c2fa6-9744-43a3-b8cf-176333d18a26.mp4
+
+
   ## Usage
   1. npm run start
   2. Verify log shows: Listening to port
