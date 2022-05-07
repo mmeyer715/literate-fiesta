@@ -28,11 +28,20 @@
   4. Base Call: 'http://localhost:PORT/api/OBJECTS'
   5. PORT Example: 3001
   6. OBJECTS Options: {categories, product, stags}
-  8. POST examples:
-  9. GET examples:
-  10. PUT examples:
-  11. DELETE examples:
-  
+  7. CRUD Examples:
+
+
+
+https://user-images.githubusercontent.com/95265770/167234880-d00243ee-3a36-4351-bd30-295210a19b8c.mp4
+
+
+
+https://user-images.githubusercontent.com/95265770/167234891-43a067ab-b3f3-4df5-a68e-45bb600d8396.mp4
+
+
+
+https://user-images.githubusercontent.com/95265770/167234896-bbe01810-0375-459c-bb15-e713392ff1e8.mp4
+
 
   ## License
   1. uHaveCRUD
@@ -43,7 +52,7 @@
   2. Lucas Zimmerman
   
   ## Questions
-  1. Maria Bean: [GITHUB](github.com/mmeyer715)	[EMAIL](mailto:mbean1216@icloud.com)
+  1. Maria Meyer: [GITHUB](github.com/mmeyer715)	[EMAIL](mailto:mbean1216@icloud.com)
   2. Lucas Zimmerman: [GITHUB](github.com/dolomiteson)	[EMAIL](mailto:zimmerman.lucas@hotmail.com)
   
   
